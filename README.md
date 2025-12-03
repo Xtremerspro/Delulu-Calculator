@@ -44,8 +44,10 @@ $$P\_{total} \= P\_{race} \\times P\_{height} \\times P\_{hair|race} \\times P\_
 * **FontAwesome** (Icons)
 
 ## **🚀 Usage**
-
-Since this is a single-file application, no build process or server installation is required.
+There are 2 ways of using this "tool"
+1. Go to the website: https://xtremerspro.github.io/Delulu-Calculator/
+or
+2. Since this is a single-file application, no build process or server installation is required.
 
 1. Clone the repository.  
 2. Open delulu\_calculator.html in any modern web browser (Chrome, Safari, Firefox).  
